@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="prompt">Please enter a string to be word counted: </string>
+    <string name="button_label">Count the Words!</string>
+    <string name="output">Total Word Count</string>
+</resources>
